@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bj01vSCaYMo=",
+  "dgSpecHash": "/8ZUt6qXMbk=",
   "success": true,
-  "projectFilePath": "D:\\code\\c-sharp-demos\\DealPlatform\\DealerPlatform.Web\\DealerPlatform.Web.csproj",
+  "projectFilePath": "D:\\code\\DealerPlatform\\DealPlatform\\DealerPlatform.Web\\DealerPlatform.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

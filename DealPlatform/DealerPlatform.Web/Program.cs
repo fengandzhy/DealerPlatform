@@ -9,10 +9,10 @@ builder.Services.AddOpenApi();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-// builder.Services.AddDbContext<DealerPlatform.Core.Core.DearlerPlatformDBContext>(options =>
-//     options.UseMySql(builder.Configuration.GetConnectionString("Default"), 
-//     new MySqlServerVersion(new Version(8, 0, 33)))
-// );
+builder.Services.AddDbContext<DealerPlatform.Core.EF.DealerplatformContext>(options =>
+    options.UseMySql(builder.Configuration.GetConnectionString("Default"), 
+    new MySqlServerVersion(new Version(8, 0, 33)))
+);
 
 var app = builder.Build();
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\c-sharp-demos\\DealPlatform\\DealerPlatform.Demain\\DealerPlatform.Demain.csproj",
+      "projectUniqueName": "D:\\code\\DealerPlatform\\DealPlatform\\DealerPlatform.Demain\\DealerPlatform.Demain.csproj",
       "projectName": "DealerPlatform.Demain",
-      "projectPath": "D:\\code\\c-sharp-demos\\DealPlatform\\DealerPlatform.Demain\\DealerPlatform.Demain.csproj",
+      "projectPath": "D:\\code\\DealerPlatform\\DealPlatform\\DealerPlatform.Demain\\DealerPlatform.Demain.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\c-sharp-demos\\DealPlatform\\DealerPlatform.Demain\\obj\\",
+      "outputPath": "D:\\code\\DealerPlatform\\DealPlatform\\DealerPlatform.Demain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

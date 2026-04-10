@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DealerPlatform.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d34c6c46e3c8fca06071c885b97b05b7085830aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d10c016a354ff44e618b6b5169fa8fad523c192")]
 [assembly: System.Reflection.AssemblyProductAttribute("DealerPlatform.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DealerPlatform.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
