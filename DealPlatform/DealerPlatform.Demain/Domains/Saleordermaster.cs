@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace DealerPlatform.Demain.Domains;
+
+public partial class Saleordermaster
+{
+    public int Id { get; set; }
+
+    public string SaleOrderNo { get; set; } = null!;
+
+    public string CustomerNo { get; set; } = null!;
+
+    public string InvoiceNo { get; set; } = null!;
+
+    public DateTime InputDate { get; set; }
+
+    public string StockNo { get; set; } = null!;
+
+    public string EditUserNo { get; set; } = null!;
+
+    public DateTime DeliveryDate { get; set; }
+
+    public string? Remark { get; set; }
+}

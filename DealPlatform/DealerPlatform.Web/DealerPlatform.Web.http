@@ -1,0 +1,6 @@
+@DealerPlatform.Web_HostAddress = http://localhost:5129
+
+GET {{DealerPlatform.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

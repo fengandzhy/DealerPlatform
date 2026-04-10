@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DealerPlatform.Core/DealerPlatform.Core.csproj" />
+  <Project Path="DealerPlatform.Demain/DealerPlatform.Demain.csproj" />
+  <Project Path="DealerPlatform.Service/DealerPlatform.Service.csproj" />
+  <Project Path="DealerPlatform.Web/DealerPlatform.Web.csproj" />
+</Solution>
