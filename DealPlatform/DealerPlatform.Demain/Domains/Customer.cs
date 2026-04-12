@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace DealerPlatform.Demain.Domains;
 
-public partial class Customer
+public partial class Customer : BaseEntity
 {
-    public int Id { get; set; }
+    public new int Id { get; set; }
 
     public string CustomerNo { get; set; } = null!;
 
